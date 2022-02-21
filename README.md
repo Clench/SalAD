@@ -1,2 +1,2 @@
 # SalAD
-Saliency-aware Anomaly Detection
+SalAD: Saliency-aware Anomaly Detection for Multivariate Time Series
