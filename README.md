@@ -8,6 +8,7 @@ Title: <em><strong>SalAD: Saliency-aware Multivariate Time Series Anomaly Detect
 
 
 # Citation
+If you find our work useful for your research, please consider citing the following paper :)
 ```
 TBA
 ```
