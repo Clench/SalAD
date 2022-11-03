@@ -8,6 +8,6 @@ Title: <em><strong>SalAD: Saliency-aware Multivariate Time Series Anomaly Detect
 
 
 # Citation
-'''
+```
 TBA
-'''
+```
