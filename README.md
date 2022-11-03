@@ -8,20 +8,22 @@ Title: <em><strong>SalAD: Saliency-aware Multivariate Time Series Anomaly Detect
 <img src="https://user-images.githubusercontent.com/29471776/199635855-b02d9857-531e-4f24-bfe1-b71290b98275.png" width=40% height=40%>
 
 # Datasets
-### MSL & SMAP
+<strong>MSL & SMAP</strong>
 ```
 curl -O https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
 ```
-### SMD
+<strong>SMD</strong>
 ```
 cd dataset/ServerMachineDataset
 ```
-### SWaT
+<strong>SWaT</strong>
 ```
 Please refer to [iTrust Lab Dataset info](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) for the SWaT dataset.
 ```
-### KARI-ELE K3A & K5
-
+<strong>KARI-ELE K3A & K5</strong>
+```
+TBA
+```
 # Citation
 If you find our work useful for your research, please consider citing the following paper :)
 ```
