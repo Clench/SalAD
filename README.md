@@ -9,17 +9,22 @@ Title: <em><strong>SalAD: Saliency-aware Multivariate Time Series Anomaly Detect
 
 # Datasets
 <strong>MSL & SMAP</strong>
+Curl and unzip data:
 ```
 curl -O https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
 ```
+Please refer to [TelemAnom](https://github.com/khundman/telemanom) for more information.
+
 <strong>SMD</strong>
 ```
 cd dataset/ServerMachineDataset
 ```
+Please refer to [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) for more information.
+
 <strong>SWaT</strong>
-```
+
 Please refer to [iTrust Lab Dataset info](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) for the SWaT dataset.
-```
+
 <strong>KARI-ELE K3A & K5</strong>
 ```
 TBA
