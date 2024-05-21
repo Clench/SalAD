@@ -32,5 +32,12 @@ TBA
 # Citation
 If you find our work useful for your research, please consider citing the following paper :)
 ```
-TBA
+@inproceedings{lee2024saliency,
+  title={Saliency-Aware Time Series Anomaly Detection for Space Applications},
+  author={Lee, Sangyup and Woo, Simon S},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={327--339},
+  year={2024},
+  organization={Springer}
+}
 ```
